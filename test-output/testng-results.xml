@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="13709" started-at="2016-04-05T17:13:50Z" finished-at="2016-04-05T17:14:04Z">
+  <suite name="Default suite" duration-ms="9360" started-at="2016-04-06T17:43:39Z" finished-at="2016-04-06T17:43:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="13709" started-at="2016-04-05T17:13:50Z" finished-at="2016-04-05T17:14:04Z">
-      <class name="ru.st.selenium.AddFilmPositiveAndRemoveTest">
-        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.AddFilmPositiveAndRemoveTest@7dc36524]" name="init" is-config="true" duration-ms="6841" started-at="2016-04-05T20:13:50Z" finished-at="2016-04-05T20:13:57Z">
+    <test name="Default test" duration-ms="9360" started-at="2016-04-06T17:43:39Z" finished-at="2016-04-06T17:43:49Z">
+      <class name="ru.st.selenium.FilmSearchTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:ru.st.selenium.FilmSearchTest@7dc36524]" name="init" is-config="true" duration-ms="7049" started-at="2016-04-06T20:43:39Z" finished-at="2016-04-06T20:43:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- init -->
-        <test-method status="PASS" signature="testAddFilm()[pri:0, instance:ru.st.selenium.AddFilmPositiveAndRemoveTest@7dc36524]" name="testAddFilm" duration-ms="6857" started-at="2016-04-05T20:13:57Z" finished-at="2016-04-05T20:14:04Z">
+        <test-method status="PASS" signature="testFilmSearch()[pri:0, instance:ru.st.selenium.FilmSearchTest@7dc36524]" name="testFilmSearch" duration-ms="2301" started-at="2016-04-06T20:43:46Z" finished-at="2016-04-06T20:43:49Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAddFilm -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.st.selenium.AddFilmPositiveAndRemoveTest@7dc36524]" name="tearDown" is-config="true" duration-ms="587" started-at="2016-04-05T20:14:04Z" finished-at="2016-04-05T20:14:04Z">
+        </test-method> <!-- testFilmSearch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:ru.st.selenium.FilmSearchTest@7dc36524]" name="tearDown" is-config="true" duration-ms="844" started-at="2016-04-06T20:43:49Z" finished-at="2016-04-06T20:43:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- ru.st.selenium.AddFilmPositiveAndRemoveTest -->
+      </class> <!-- ru.st.selenium.FilmSearchTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

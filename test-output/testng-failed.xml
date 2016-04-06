@@ -3,14 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="ru.st.selenium.AddFilmPositiveAndRemoveTest">
+      <class name="ru.st.selenium.FilmSearchTest">
         <methods>
+          <include name="testFilmSearch"/>
           <include name="init"/>
-          <include name="testAddFilm"/>
-          <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- ru.st.selenium.AddFilmPositiveAndRemoveTest -->
+      </class> <!-- ru.st.selenium.FilmSearchTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
